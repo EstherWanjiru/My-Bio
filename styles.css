@@ -4,7 +4,7 @@ padding: 0px;
 }
 
 body {
-    background-color: aquamarine;
+    background-color: #000060;
 }
 
 .app{
@@ -23,11 +23,11 @@ border-radius: 20px;
 
 @media  (max-width: 460px ) {
     body {
-        background-color: rgb(197, 127, 255);
+        background-color: #000060);
     }
     .image {
         width: 280px;
         height: 240px;
-        
+
     }
 }
